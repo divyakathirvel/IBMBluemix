@@ -1,0 +1,4 @@
+keystoneclient
+swiftclient
+gnupg
+Flask==0.10.1
